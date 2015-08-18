@@ -1,7 +1,8 @@
 # coding-crew-website
 
-
 ## Git commands:
+
+Make sure to be in the correct directory in the command line. eg: if your project is on your desktop run cd Desktop/coding-crew-website
 
 - git status - to check what files you have modified
 - git add . - add the modified files
